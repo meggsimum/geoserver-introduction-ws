@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/terrestris/geoserver-introduction-ws#readme",
   "dependencies": {
-    "gitbook-cli": "2.3.2"
+    "gitbook-cli": "2.3.2",
+    "v6": "0.0.0"
   }
 }
