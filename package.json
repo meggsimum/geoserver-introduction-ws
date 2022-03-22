@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "The materials for the geoserver-introduction workshop",
   "scripts": {
-    "start": "honkit serve src",
+    "dev": "honkit serve src",
     "build": "honkit build src"
   },
   "repository": {
