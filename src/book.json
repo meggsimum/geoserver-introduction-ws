@@ -32,7 +32,6 @@
     }]
   },
   "plugins": [
-    "advanced-emoji",
     "edit-link",
     "expandable-chapters",
     "image-captions",

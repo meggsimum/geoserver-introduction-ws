@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/terrestris/geoserver-introduction-ws#readme",
   "devDependencies": {
-    "gitbook-plugin-advanced-emoji": "^0.2.2",
     "gitbook-plugin-edit-link": "^2.0.2",
     "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-image-captions": "^3.1.0",
