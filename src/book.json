@@ -17,19 +17,24 @@
     "geoServerPassword": "geoserver",
     "geoServerVersion": "2.18.1",
     "osGeoLiveVersion": "14.0",
-    "authors": [{
-      "name": "Nils Bühner",
-      "mail": "buehner@terrestris.de"
-    }, {
-      "name": "André Henn",
-      "mail": "henn@terrestris.de"
-    }, {
-      "name": "Daniel Koch",
-      "mail": "koch@terrestris.de"
-    }, {
-      "name": "Fabian Schmidt",
-      "mail": "fschmidt@terrestris.de"
-    }]
+    "authors": [
+      {
+        "name": "Nils Bühner",
+        "mail": "buehner@terrestris.de"
+      },
+      {
+        "name": "André Henn",
+        "mail": "henn@terrestris.de"
+      },
+      {
+        "name": "Daniel Koch",
+        "mail": "koch@terrestris.de"
+      },
+      {
+        "name": "Fabian Schmidt",
+        "mail": "fschmidt@terrestris.de"
+      }
+    ]
   },
   "plugins": [
     "edit-link",
