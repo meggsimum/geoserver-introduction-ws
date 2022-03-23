@@ -5,7 +5,8 @@
   "description": "The materials for the geoserver-introduction workshop",
   "scripts": {
     "dev": "honkit serve src",
-    "build": "honkit build src build/geoserver-introduction-ws"
+    "clean": "rm -rf src/_book build",
+    "build": "npm run clean && honkit build src build/geoserver-introduction-ws"
   },
   "repository": {
     "type": "git",
