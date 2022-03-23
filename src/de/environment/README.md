@@ -23,8 +23,6 @@ aus:
 Der GeoServer kann durch einen Doppelklick auf **Start GeoServer** im Ordner
 **Web Services** auf dem Desktop der OSGeoLive gestartet werden:
 
-> **note**
->
 > Kann der GeoServer **nicht** über den o.g. Weg gestart werden oder verhält sich zur Laufzeit unerwartet
 > (wenn z.B. das Speichern eines Arbeitsbereichs nicht möglich ist), sollte er stattdessen über den
 > folgenden Befehl im Terminal gestartet werden:

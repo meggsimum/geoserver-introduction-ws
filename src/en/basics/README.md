@@ -22,8 +22,7 @@ servlet container (for example [Tomcat](https://tomcat.apache.org/) or
 Further information and details about a classic WAR-installation you can find
 [here](https://docs.geoserver.org/stable/en/user/installation/war.html).
 
-> **note**
->
+
 > GeoServer is already pre-installed on the OSGeoLive system
 > and can be accessed during the workshop at   {{ book.geoServerBaseUrl }}
 > (see [here](../environment/README.md)). This variant differs from the classical *deployment* as a .war file, since a Java program

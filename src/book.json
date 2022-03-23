@@ -39,8 +39,7 @@
   "plugins": [
     "edit-link",
     "expandable-chapters",
-    "image-captions",
-    "richquotes"
+    "image-captions"
   ],
   "pluginsConfig": {
     "edit-link": {

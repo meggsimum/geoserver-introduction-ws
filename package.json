@@ -26,7 +26,6 @@
     "gitbook-plugin-edit-link": "^2.0.2",
     "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-image-captions": "^3.1.0",
-    "gitbook-plugin-richquotes": "^0.0.9",
     "honkit": "^3.7.1"
   }
 }
