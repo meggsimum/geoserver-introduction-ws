@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "honkit serve src",
     "clean": "rm -rf src/_book build",
-    "build": "npm run clean && honkit build src build/geoserver-introduction-ws"
+    "build": "npm run clean && npm run doc:build && npm run doc:pdf",
+    "doc:build": "honkit build src build/geoserver-introduction-ws",
+    "doc:pdf": "honkit pdf src ./build/geoserver-introduction-ws/geoserver-introduction-ws.pdf"
   },
   "repository": {
     "type": "git",
