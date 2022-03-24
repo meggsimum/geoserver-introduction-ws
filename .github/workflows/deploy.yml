@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - mgsm-master
+      - gitbook-to-honkit
 
 jobs:
   deploy:
@@ -16,6 +16,9 @@ jobs:
           cache: 'npm'
       - run: npm ci
       - run: npm run build
+      - run: sudo apt-get update && sudo apt install calibre
+      - run: npx honkit pdf src ./build/out.pdf
+      - run: ls ./build
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
