@@ -17,7 +17,7 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: sudo apt-get update && sudo apt install calibre
-      - run: npx honkit pdf src ./build/out.pdf
+      - run: npx honkit pdf src ./build/geoserver-introduction-ws/out.pdf
       - run: ls ./build
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
