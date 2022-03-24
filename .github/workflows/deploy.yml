@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - gitbook-to-honkit
+      - mgsm-master
 
 jobs:
   deploy:

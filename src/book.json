@@ -5,11 +5,11 @@
   "language": "de",
   "variables": {
     "workshopName": "GeoServer introduction",
-    "workshopRawSourceBaseUrl": "https://rawgit.com/terrestris/geoserver-introduction-ws/master/src/",
-    "workshopDownloadUrl": "https://terrestris.github.io/geoserver-introduction-ws/geoserver-introduction-ws.zip",
-    "workshopPdfUrlDe": "https://terrestris.github.io/geoserver-introduction-ws/geoserver-introduction-ws_de.pdf",
-    "workshopPdfUrlEn": "https://terrestris.github.io/geoserver-introduction-ws/geoserver-introduction-ws_en.pdf",
-    "workshopMaterialsDownloadUrl": "https://terrestris.github.io/geoserver-introduction-ws/materials.tar.gz",
+    "workshopRawSourceBaseUrl": "https://rawgit.com/meggsimum/geoserver-introduction-ws/master/src/",
+    "workshopDownloadUrl": "https://meggsimum.github.io/geoserver-introduction-ws/geoserver-introduction-ws.zip",
+    "workshopPdfUrlDe": "https://meggsimum.github.io/geoserver-introduction-ws/geoserver-introduction-ws_de.pdf",
+    "workshopPdfUrlEn": "https://meggsimum.github.io/geoserver-introduction-ws/geoserver-introduction-ws_en.pdf",
+    "workshopMaterialsDownloadUrl": "https://meggsimum.github.io/geoserver-introduction-ws/materials.tar.gz",
     "geoServerPhysicalPath": "/usr/local/lib/geoserver-2.18.1/",
     "geoServerBaseUrl": "http://localhost:8082/geoserver",
     "geoServerUser": "admin",
@@ -42,7 +42,7 @@
   ],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/terrestris/geoserver-introduction-ws/edit/master/src",
+      "base": "https://github.com/meggsimum/geoserver-introduction-ws/edit/master/src",
       "label": "Edit…"
     },
     "image-captions": {
