@@ -17,7 +17,6 @@ jobs:
       - run: npm ci
       - run: sudo apt-get update && sudo apt install calibre
       - run: npm run build
-      - run: npm run doc:pdf
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |

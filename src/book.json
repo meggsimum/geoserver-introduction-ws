@@ -9,7 +9,6 @@
     "workshopDownloadUrl": "https://terrestris.github.io/geoserver-introduction-ws/geoserver-introduction-ws.zip",
     "workshopPdfUrlDe": "https://terrestris.github.io/geoserver-introduction-ws/geoserver-introduction-ws_de.pdf",
     "workshopPdfUrlEn": "https://terrestris.github.io/geoserver-introduction-ws/geoserver-introduction-ws_en.pdf",
-    "workshopEpubUrl": "https://terrestris.github.io/geoserver-introduction-ws/geoserver-introduction-ws.epub",
     "workshopMaterialsDownloadUrl": "https://terrestris.github.io/geoserver-introduction-ws/materials.tar.gz",
     "geoServerPhysicalPath": "/usr/local/lib/geoserver-2.18.1/",
     "geoServerBaseUrl": "http://localhost:8082/geoserver",
