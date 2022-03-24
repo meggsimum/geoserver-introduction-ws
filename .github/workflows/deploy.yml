@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - master
+      - mgsm-master
 
 jobs:
   deploy:
@@ -24,4 +24,4 @@ jobs:
           npx gh-pages \
             --dist build/geoserver-introduction-ws \
             --user "github-actions-bot <support+actions@github.com>" \
-            --branch gh-pages
+            --branch mgsm-gh-pages
